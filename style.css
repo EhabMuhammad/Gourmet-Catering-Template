@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+header{
+    position: sticky !important;
+    top: 0 !important;
+    background-color: white;
+    box-shadow: 0 2px 15px rgb(92, 92, 92);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    display: inline-block;
+    padding: 16px;
+    letter-spacing: 4px;
+    color: black;
+}
+
+.Gourmet{
+    padding-left: 20px;
+}
+
+.contact{
+    padding-right: 40px;
+}
+
+.Le-Catering{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    margin-top: -50px;
+    margin-left: 20px;
+    font-size: 36px;
+    color: rgb(61, 61, 61);
+    font-weight: 400;
+}
+/* ==================================================================== */
+
+.Catering-section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 150px;
+    padding-bottom: 100px;
+}
+
+.table-image img{
+    border-radius: 5px;
+    width: 100%;
+    opacity: 80%;
+
+}
+
+.table-image{
+    width: 45%;
+}
+
+.About-Catering{
+    width: 46%;
+}
+
+.About-Catering h1{
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+    padding: 20px 0 50px 0;
+}
+
+.About-Catering .Tradition{
+    letter-spacing: 4px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: "Playfair Display";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.About-Catering .The-Catering{
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.The-Catering span{
+    background-color: rgb(235, 238, 238);
+    padding: 5px;
+}
+
+.Excepteur{
+    color: rgb(124, 124, 124);
+    font-size: 18px;
+    line-height: 23px;
+}
+
+/* ==================================================================== */
+.Our-Menu-Section{
+    padding: 100px 110px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Our-Menu{
+    width: 40%;
+    line-height: 35px;
+}
+
+.Our-Menu h1{
+    text-align: center;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.Our-Menu h4{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Our-Menu p{
+    color: #757575;
+}
+
+.tablesetting2 img{
+    border-radius: 5px;
+}
+hr{
+    border: none;
+    border: 1px solid #f0eeee;
+    width: 80%;
+    margin: 0 auto;
+}
+/* ==================================================================== */
+.contact-section h1{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.contact-section{
+    padding: 100px 110px;
+
+
+}
+
+b{
+    font-size: 18px !important;
+    color: #607d8b !important;
+}
+
+input{
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgba(165, 163, 163, 0.527);
+    height: 50px;
+}
+
+.contact-section a{
+    display: inline-block;
+    direction: none;
+    color: black;
+    background-color: rgba(219, 218, 218, 0.733);
+    padding: 10px;
+}
+/* ==================================================================== */
+
+footer{
+    background-color: rgba(219, 218, 218, 0.733);
+    height: 150px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
